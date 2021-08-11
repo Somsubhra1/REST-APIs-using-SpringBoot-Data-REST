@@ -1,10 +1,10 @@
-# REST APIs using Spring Boot with JPA & H2 Database
+# REST APIs using Spring Boot
 
 ## Description
 
 REST APIs using Spring Boot with JPA & H2 Database
 
-## Technologies used
+## Technologies/Dependencies used
 
 - Spring Boot
 - Spring Data REST
